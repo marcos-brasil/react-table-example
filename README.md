@@ -1,13 +1,13 @@
 ##### Extra Features
-|[less](http://lesscss.org/) | [Jade](http://jade-lang.com/) | [traceur](https://github.com/google/traceur-compiler) | [Reactjs](http://facebook.github.io/react/index.html) | [DI](https://github.com/angular/di.js#a3130ef87a) | [Zone](https://github.com/angular/zone.js#74947b6f509b)| [webpack](https://github.com/webpack/webpack)| [casper](http://casperjs.org/) | [mocha](http://visionmedia.github.io/mocha/) | Source-maps
-|--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
+|[less](http://lesscss.org/) | [Jade](http://jade-lang.com/) | [traceur](https://github.com/google/traceur-compiler) | [Reactjs](http://facebook.github.io/react/index.html) | [DI](https://github.com/angular/di.js#a3130ef87a) | [Zone](https://github.com/angular/zone.js#74947b6f509b)| [webpack](https://github.com/webpack/webpack)| [casper](http://casperjs.org/) | [mocha](http://visionmedia.github.io/mocha/) |
+|--- |--- |--- |--- |--- |--- |--- |--- |--- |
 
 
 This project is showing off my wsk-react-di with less version of bootstrap (and some jquery hack, off-course :) to create a prototype of super-table
 
 You can sort rows in the tables or filter them out by clicking (or touching) at the head of the collumn. It will bring a popover with a list with the checked rows.  
 
-Note that the order on the filter will reflect the current sorting of the table dynamicaly. And that each table are complete isolated from each other
+Note that the order on the filter will reflect the current sorting of the table dynamicaly. And that each table are complete isolated from each other. And that I have support for source maps (well, not 100%, reactjs got a bug on their sourcemaps :)
 
 ## Quickstart
 
