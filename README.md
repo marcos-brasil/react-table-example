@@ -21,7 +21,7 @@ $ npm install && bower install
 
 That's it! You should now have everything needed to use the Gulp tools in Web Starter Kit.
 
-#### Gulp Commands
+### Gulp Commands
 
 You can now use Gulp with the following commands to stay productive during development:
 
