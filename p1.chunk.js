@@ -243,6 +243,7 @@
 	    $(el.children()[0]).removeClass('hide');
 	  } else {
 	    $(el.children()[0]).toggle('hide');
+	    console.log('filter touched', id, el);
 	  }
 	  this.store.forEach(function(state, person) {
 	    if (state.position === parseInt(pos, 10)) {
@@ -250,6 +251,7 @@
 	    }
 	  }.bind(this));
 	  this.updateCtxModel();
+	  $(window).trigger('resize');
 	};
 	_TableCtrl.prototype.componentDidMount = function() {
 	  "use strict";
