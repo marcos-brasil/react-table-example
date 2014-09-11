@@ -1,6 +1,6 @@
 ##### Extra Features
-|[less](http://lesscss.org/) | [Jade](http://jade-lang.com/) | [traceur](https://github.com/google/traceur-compiler) | [Reactjs](http://facebook.github.io/react/index.html) | [DI](https://github.com/angular/di.js#a3130ef87a) | [Zone](https://github.com/angular/zone.js#74947b6f509b)| [webpack](https://github.com/webpack/webpack)| [casper](http://casperjs.org/) | [mocha](http://visionmedia.github.io/mocha/) |
-|--- |--- |--- |--- |--- |--- |--- |--- |--- |
+|[less](http://lesscss.org/) | [Jade](http://jade-lang.com/) | [traceur](https://github.com/google/traceur-compiler) | [Reactjs](http://facebook.github.io/react/index.html) | [Zone](https://github.com/angular/zone.js#74947b6f509b)| [webpack](https://github.com/webpack/webpack)| [casper](http://casperjs.org/) | [mocha](http://visionmedia.github.io/mocha/) |
+|--- |--- |--- |--- |--- |--- |--- |--- |
 
 
 This project is showing off my wsk-react-di with less version of bootstrap (and some jquery hack, off-course :) to create a prototype of super-table
