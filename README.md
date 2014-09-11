@@ -3,7 +3,7 @@
 |--- |--- |--- |--- |--- |--- |--- |--- |
 
 
-This project is showing off my wsk-react-di with less version of bootstrap (and some jquery hack, off-course :) to create a prototype of super-table
+This project is showing off my wsk-react-di with less version of bootstrap (and some jquery hack, off-course :) to create a prototype of super responsive table
 
 You can sort rows in the tables or filter them out by clicking (or touching) at the head of the collumn. It will bring a popover with a list with the checked rows.  
 
