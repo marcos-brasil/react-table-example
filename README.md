@@ -3,11 +3,11 @@
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 
 
-This project is showing off my wsk-react-di with less version of bootstrap (and some jquery hack, off-course :)  
+This project is showing off my wsk-react-di with less version of bootstrap (and some jquery hack, off-course :) to create a prototype of super-table
 
-You can sort rows in the tables or filter them out. Clicking (or touching) at the head of the collumn will bring a popover with some filtering options.  
+You can sort rows in the tables or filter them out by clicking (or touching) at the head of the collumn. It will bring a popover with a list with the checked rows.  
 
-Note that the order on the filter will reflect the current sorting of the table and that each table are complete isolated from each other
+Note that the order on the filter will reflect the current sorting of the table dynamicaly. And that each table are complete isolated from each other
 
 ## Quickstart
 
