@@ -3,6 +3,8 @@
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 
 
+this project is showing off reactjs with less version of bootstrap (and some jquery hack)  
+
 # [![Web Starter Kit](https://cloud.githubusercontent.com/assets/170270/3343034/ceef6e92-f899-11e3-96b9-5d9d69d97a00.png)]()
 
 ## Overview
