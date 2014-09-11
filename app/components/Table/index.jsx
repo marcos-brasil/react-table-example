@@ -57,6 +57,7 @@ class _TableCtrl {
     }
     else {
       $(el.children()[0]).toggle('hide')
+      console.log('filter touched', id, el)
     }
 
     this.store.forEach(function(state, person){
@@ -67,6 +68,10 @@ class _TableCtrl {
     }.bind(this))
 
     this.updateCtxModel()
+
+    // force the a page refresh
+    $(window).trigger('resize')
+
   }
 
   componentDidMount () {
@@ -119,6 +124,7 @@ class _TableCtrl {
 
   updateCtxModel () {
     this._fixPopoverPosition()
+
 
     if (this.state.popover.first) {
       this.state.popover.first = false
